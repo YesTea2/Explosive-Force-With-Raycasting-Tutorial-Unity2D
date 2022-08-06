@@ -1,5 +1,5 @@
 # Tutorial_Lesson_Unity2D_Adding_Explosive_Force
- Using Explosive Force in Unity2d  with raycasting 
+ Using Explosive Force In Unity2d  With Raycasting 
 
 This is a project for a tutorial on my YouTube Channel https://www.youtube.com/channel/UCydKq4MoFcHMA99KVx-FBOQ 
 I currently do not have a voice but had said this would be uploaded today, so its up and public and a video will come breaking it all down in a few days 
